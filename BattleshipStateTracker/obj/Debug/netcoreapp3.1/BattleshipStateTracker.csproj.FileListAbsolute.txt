@@ -1,0 +1,10 @@
+C:\Users\nitha\source\repos\BattleshipStateTracker\BattleshipStateTracker\bin\Debug\netcoreapp3.1\BattleshipStateTracker.deps.json
+C:\Users\nitha\source\repos\BattleshipStateTracker\BattleshipStateTracker\bin\Debug\netcoreapp3.1\BattleshipStateTracker.dll
+C:\Users\nitha\source\repos\BattleshipStateTracker\BattleshipStateTracker\bin\Debug\netcoreapp3.1\BattleshipStateTracker.pdb
+C:\Users\nitha\source\repos\BattleshipStateTracker\BattleshipStateTracker\obj\Debug\netcoreapp3.1\BattleshipStateTracker.csproj.AssemblyReference.cache
+C:\Users\nitha\source\repos\BattleshipStateTracker\BattleshipStateTracker\obj\Debug\netcoreapp3.1\BattleshipStateTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitha\source\repos\BattleshipStateTracker\BattleshipStateTracker\obj\Debug\netcoreapp3.1\BattleshipStateTracker.AssemblyInfoInputs.cache
+C:\Users\nitha\source\repos\BattleshipStateTracker\BattleshipStateTracker\obj\Debug\netcoreapp3.1\BattleshipStateTracker.AssemblyInfo.cs
+C:\Users\nitha\source\repos\BattleshipStateTracker\BattleshipStateTracker\obj\Debug\netcoreapp3.1\BattleshipStateTracker.csproj.CoreCompileInputs.cache
+C:\Users\nitha\source\repos\BattleshipStateTracker\BattleshipStateTracker\obj\Debug\netcoreapp3.1\BattleshipStateTracker.dll
+C:\Users\nitha\source\repos\BattleshipStateTracker\BattleshipStateTracker\obj\Debug\netcoreapp3.1\BattleshipStateTracker.pdb
